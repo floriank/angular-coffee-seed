@@ -11,12 +11,12 @@ Support for source maps included.
 
 To use it:
 
-* Clone it
-* npm install
-* ./scripts/install.sh
-* make
-* make server (to run a small node server for testing)
-* make test (to run all the tests)
+    Clone it
+    npm install
+    ./scripts/install.sh
+    make
+    make server (to run a small node server for testing)
+    make test (to run all the tests)
 
 
 
