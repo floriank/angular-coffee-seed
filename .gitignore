@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+*.sublime-*
+app/**/*.html
+app/**/*.css
+app/**/*.js
+app/**/*.map
+app/index.html
